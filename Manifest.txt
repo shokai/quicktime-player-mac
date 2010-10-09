@@ -1,0 +1,13 @@
+History.txt
+Manifest.txt
+README.rdoc
+Rakefile
+lib/quicktime-player-mac.rb
+lib/quicktime-player-mac/quicktime.rb
+script/console
+script/destroy
+script/generate
+spec/mac-quicktime-player_spec.rb
+spec/spec.opts
+spec/spec_helper.rb
+tasks/rspec.rake
